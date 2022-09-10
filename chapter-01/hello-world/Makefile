@@ -1,2 +1,2 @@
 hello.o:
-	rustc hello.rs -o bin/hello
+	rustc src/hello.rs -o bin/hello
